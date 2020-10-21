@@ -1,0 +1,11 @@
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\bin\Debug\Operations.exe.config
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\bin\Debug\Operations.exe
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\bin\Debug\Operations.pdb
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\bin\Debug\EntityFramework.dll
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\bin\Debug\EntityFramework.xml
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.Form1.resources
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.Properties.Resources.resources
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.csproj.GenerateResource.Cache
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.exe
+c:\users\cseni\documents\visual studio 2013\Projects\Operations\Operations\obj\Debug\Operations.pdb
